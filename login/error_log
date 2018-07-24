@@ -1,0 +1,11 @@
+[26-Jun-2018 14:33:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/login/index.php on line 13
+[26-Jun-2018 16:39:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/login/index.php on line 13
+[26-Jun-2018 16:39:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/login/index.php on line 13
+[27-Jun-2018 03:37:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/login/auth.php on line 22
+[27-Jun-2018 03:37:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/login/index.php on line 13
+[27-Jun-2018 07:28:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/login/index.php on line 13
+[27-Jun-2018 09:31:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/usccredi/public_html/login/auth.php on line 22
+[27-Jun-2018 11:32:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/usccredi/public_html/login/auth.php on line 22
+[27-Jun-2018 12:39:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/login/index.php on line 13
+[29-Jun-2018 14:00:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/login/index.php on line 13
+[29-Jun-2018 14:18:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/login/auth.php on line 22

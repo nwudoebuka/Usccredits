@@ -1,0 +1,12 @@
+[28-Jun-2018 09:25:12 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/usccredi/public_html/Finger/getdept.php on line 10
+[28-Jun-2018 09:25:14 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/usccredi/public_html/Finger/getinfo.php on line 10
+[28-Jun-2018 09:41:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getdept.php on line 10
+[28-Jun-2018 09:43:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getdept.php on line 10
+[28-Jun-2018 09:43:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getinfo.php on line 10
+[28-Jun-2018 09:43:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getdept.php on line 10
+[28-Jun-2018 09:47:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getdept.php on line 10
+[28-Jun-2018 09:49:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getdept.php on line 10
+[28-Jun-2018 09:49:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getinfo.php on line 10
+[28-Jun-2018 09:49:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/Finger/getdept.php on line 10
+[29-Jun-2018 14:08:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/Finger/getinfo.php on line 10
+[29-Jun-2018 14:08:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/Finger/getdept.php on line 10

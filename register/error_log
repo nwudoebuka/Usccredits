@@ -1,0 +1,7 @@
+[26-Jun-2018 16:43:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/register/index.php on line 20
+[26-Jun-2018 16:43:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/register/index.php on line 20
+[26-Jun-2018 16:49:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/register/index.php on line 20
+[27-Jun-2018 08:45:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/register/index.php on line 20
+[27-Jun-2018 08:45:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/register/index.php on line 20
+[27-Jun-2018 08:46:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/register/index.php on line 20
+[27-Jun-2018 12:45:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/register/index.php on line 20

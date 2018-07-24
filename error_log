@@ -1,0 +1,108 @@
+[18-May-2018 21:54:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/admin.php on line 79
+[25-Jun-2018 08:04:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 08:04:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 08:43:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 08:43:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 08:44:05 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 08:44:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:38:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:38:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:39:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:39:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:39:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:39:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:39:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:39:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:41:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:42:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 12:42:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 13:04:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[25-Jun-2018 13:04:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[26-Jun-2018 08:58:18 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[26-Jun-2018 13:33:44 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[26-Jun-2018 16:40:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[26-Jun-2018 16:41:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[26-Jun-2018 16:41:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 07:28:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:12:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:12:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:37:21 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:47:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:50:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:50:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:50:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 08:51:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 10:01:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 11:47:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 11:57:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 11:59:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 11:59:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:01:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:01:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:01:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:01:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:03:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:03:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:04:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:04:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:43:20 UTC] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:43:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:43:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[27-Jun-2018 12:44:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[28-Jun-2018 09:41:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[28-Jun-2018 12:41:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/admin.php on line 80
+[28-Jun-2018 12:41:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/admin.php on line 80
+[28-Jun-2018 12:41:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/admin.php on line 80
+[28-Jun-2018 12:41:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/admin.php on line 80
+[28-Jun-2018 12:41:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/admin.php on line 80
+[28-Jun-2018 12:41:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/admin.php on line 80
+[29-Jun-2018 08:15:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 10:19:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 10:20:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:14:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:14:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:14:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:14:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:14:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:15:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:15:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:18:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:18:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:19:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:19:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:20:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:20:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 18:20:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Resource temporarily unavailable in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 22:58:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:02:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:02:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:02:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:02:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:03:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:03:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:03:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:04:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:05:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:05:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:06:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:06:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:06:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:06:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:07:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:07:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:07:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27
+[29-Jun-2018 23:08:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/usccredi/public_html/index.php on line 27

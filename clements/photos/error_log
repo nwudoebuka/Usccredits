@@ -1,0 +1,1 @@
+[06-Jun-2018 08:25:11 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/usccredi/public_html/clements/photos/upload.php on line 13

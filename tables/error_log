@@ -1,0 +1,1 @@
+[15-May-2018 22:21:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ussccredi_001'@'localhost' (using password: YES) in /home/usccredi/public_html/tables/cr82register.php on line 8

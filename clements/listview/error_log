@@ -1,0 +1,14 @@
+[01-Jun-2018 10:19:32 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/usccredi/public_html/clements/listview/connection.php on line 8
+[01-Jun-2018 12:14:47 UTC] PHP Fatal error:  Call to a member function query() on null in /home/usccredi/public_html/clements/listview/profilesingle.php on line 17
+[05-Jun-2018 14:32:36 UTC] PHP Warning:  file_put_contents(clements/listview/image/.png): failed to open stream: No such file or directory in /home/usccredi/public_html/clements/listview/uploadimage.php on line 32
+[05-Jun-2018 14:32:36 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 37
+[05-Jun-2018 14:33:20 UTC] PHP Warning:  file_put_contents(clements/listview/image/test.png): failed to open stream: No such file or directory in /home/usccredi/public_html/clements/listview/uploadimage.php on line 32
+[05-Jun-2018 14:33:20 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 37
+[05-Jun-2018 14:46:34 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 47
+[05-Jun-2018 14:52:58 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 39
+[05-Jun-2018 14:53:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 39
+[05-Jun-2018 14:53:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 39
+[05-Jun-2018 14:53:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 39
+[06-Jun-2018 08:27:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 39
+[06-Jun-2018 08:32:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 39
+[06-Jun-2018 08:32:39 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/usccredi/public_html/clements/listview/uploadimage.php on line 39

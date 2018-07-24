@@ -1,0 +1,7 @@
+[03-Jul-2018 14:35:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/capitalcuonline.com/transfer.php on line 79
+[03-Jul-2018 14:36:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/capitalcuonline.com/transfer.php on line 79
+[03-Jul-2018 14:36:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/capitalcuonline.com/transfer.php on line 79
+[03-Jul-2018 14:36:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/capitalcuonline.com/transfer.php on line 79
+[03-Jul-2018 14:36:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/capitalcuonline.com/transfer.php on line 79
+[03-Jul-2018 14:38:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/capitalcuonline.com/transfer.php on line 79
+[03-Jul-2018 14:39:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'capitalc_001'@'localhost' (using password: YES) in /home/usccredi/public_html/capitalcuonline.com/transfer.php on line 79

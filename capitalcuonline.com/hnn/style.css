@@ -1,0 +1,314 @@
+@import url("fontello.css");
+
+body {
+	background-color: #222;
+}
+
+@font-face {
+    font-family: 'GraublauWebBoldRegular';
+    src: url('../fonts/graublauwebbold-webfont.eot');
+    src: url('../fonts/graublauwebbold-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/graublauwebbold-webfont.woff') format('woff'),
+         url('../fonts/graublauwebbold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+#power{
+	color: white;
+	font-family: "Bradley Hand ITC";
+	font-size: 15px;
+
+}
+
+#hello {
+	background:url(../images/background-hello.png) repeat-x;
+	background-color:#5ec8df;
+	padding:10px;
+	text-align:center;
+	margin-top:-10px}
+
+#hello img {
+	margin-top:10px;}	
+
+h1,h2,h3,h4 {
+	font-family: GraublauWebBoldRegular;
+	text-align:center;
+	font-weight:300;
+	color:#fff;
+	line-height:35px;
+	}
+h3{
+	text-align: left;
+}
+	
+h1 {
+	font-size:50px;
+	line-height:35px;
+	text-transform: uppercase;
+	text-shadow: 4px 4px 0px rgba(0,0,0, 0.2);
+	}
+
+h3 {line-height:25px;
+	}
+	
+h4 {line-height:20px;
+	}
+
+#container {
+	height:350px;
+	background-color: #5ec8df;
+	background-image: url(../images/sky.png);
+	background-position: top;
+	background-repeat:repeat-x;
+	padding-top: 65px;
+}
+
+#background-buildings {
+	background: url(../images/background-buildings.png);
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 10;
+}
+
+#bird{
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 110;
+}
+
+#background-vehicles {
+	background: url(../images/vehicles.png);
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 30;
+}
+
+#background-road-seal {
+	background: url(../images/road-seal.png);
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 50;
+}
+
+#background-small-cranes {
+	background: url(../images/small-cranes.png);
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 20;
+}
+
+#clouds {
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 40;
+}
+
+#lorries {
+	background: url(../images/lorries.png);
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 100;
+}
+
+#crane {
+	background-image: url(../images/crane.png);
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 30;
+}
+
+#foreground-ground {
+	background: url(../images/ground.png);
+	background-repeat:repeat-x;
+	height:350px;
+	z-index: 210;
+}
+
+#container-counter {
+	height:350px;
+	padding-top:0px;
+}
+
+.yellow-container {
+	background-color:#d1ae4f;
+	min-height:160px;
+	text-align:center;
+	padding-bottom:15px;
+	font-family: 'GraublauWebBoldRegular';
+	background-image: url(../images/background-yellow.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	}
+
+.yellow-container .btn {
+	margin-bottom:10px;
+}
+
+.bg-mail {
+	background-image: url(../images/mail.png);
+	background-position: center;
+}
+ul .inline > a{
+	color: white;
+}
+div .span4{
+	margin-left:500px;
+}
+div .span4 > a{
+	color: white;
+}
+ .white a{
+    color: #fff;
+    text-decoration: none;
+}
+.span4 {
+	color:#CCC;
+	text-align:center;
+	margin-left:200px;
+	
+}
+.span12{
+	margin-top: 60px;
+}
+.white{
+	color: white;
+}
+
+/* Some tuning styles for subsciption form */
+
+.yellow-container input[type="email"],
+.yellow-container .btn {
+	font-family: 'GraublauWebBoldRegular';
+	font-size:16px;
+	padding:8px
+	}
+
+.yellow-container .btn {
+	text-transform: uppercase
+}
+	
+.error {
+	background:#5ec8df;
+	width:295px;
+	font-size: 14px;
+	color:#fff;
+	line-height:30px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
+}
+
+/* jQuery Countdown styles*/
+
+#defaultCountdown {
+	width:280px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 5px;
+}
+
+.hasCountdown {
+}
+
+.countdown_rtl {
+	direction: rtl;
+}
+
+.countdown_holding span {
+	color: #888;
+	
+}
+.countdown_row {
+	clear: both;
+	padding: 0px 2px;
+	text-align: center;
+
+}
+.countdown_show4 .countdown_section {	
+	width: 103px;
+	float:left;
+	border:7px solid #5ec8df;
+	background-color:#d4af48;
+	height:103px;
+	border-radius:100px;
+	line-height:0px;
+	text-align:center;
+	-moz-box-shadow: 5px 5px rgba(0,0,0,0.3);
+ 	-webkit-box-shadow: 5px 5px rgba(0,0,0,0.3);
+ 	box-shadow: 5px 5px rgba(0,0,0,0.3);
+}
+
+.countdown_section {
+	font-family:GraublauWebBoldRegular;
+	font-weight:300;
+	color:#000;
+	display: block;
+	float: left;
+	font-size: 12px;
+	text-transform:uppercase;
+	letter-spacing:0px;
+	margin:10px;
+	text-align: center;
+}
+.countdown_amount {
+	font-size: 55px;
+	text-shadow: 3px 3px 0px rgba(0,0,0, 0.2);
+	color:#fff;
+	letter-spacing:-1px;
+	line-height:75px;
+}
+.countdown_descr {
+	display: block;
+	width: 100%; 	
+}
+
+/* Social Icons */
+
+.social-buttons {
+	margin:20px auto 20px auto;
+	clear:both;
+}
+
+.social {
+	list-style:none;
+	line-height:32px;
+	text-align:center;
+	font-size:26px;
+}
+
+.social-buttons ul {
+	margin: 0px;}
+
+.social li {
+	display:inline;
+	margin:0px;
+	-webkit-transition-property: opacity;
+	-webkit-transition-duration: 500ms;
+	-moz-transition-property: opacity;
+	-moz-transition-duration: 500ms;
+}
+
+.social li a {
+	color:#999;
+	text-decoration:none;
+	text-shadow: 2px 2px 0 rgba(0,0,0, 0.1);
+	padding:8px;
+}
+
+.social:hover li { 
+	opacity:0.2;
+}
+
+.social li:hover {
+	opacity:1;
+	transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+} #power a{
+    color: white;
+    text-decoration: none;
+	font-family:sans-seriff;
+}

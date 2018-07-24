@@ -1,0 +1,48 @@
+[06-Jun-2018 08:45:55 UTC] PHP Warning:  file_put_contents(clements/uploadimage/image/0.png): failed to open stream: No such file or directory in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 33
+[06-Jun-2018 08:48:51 UTC] PHP Warning:  file_put_contents(clements/uploadimage/image/sss.png): failed to open stream: No such file or directory in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 25
+[06-Jun-2018 09:15:15 UTC] PHP Warning:  file_put_contents(/image/sss.png): failed to open stream: No such file or directory in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 25
+[06-Jun-2018 09:17:58 UTC] PHP Warning:  file_put_contents(clements/uploadimage/image/sss.png): failed to open stream: No such file or directory in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 24
+[06-Jun-2018 09:18:40 UTC] PHP Warning:  file_put_contents(/image): failed to open stream: Permission denied in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 24
+[06-Jun-2018 09:21:49 UTC] PHP Warning:  file_put_contents(image/): failed to open stream: Is a directory in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 24
+[06-Jun-2018 09:31:56 UTC] PHP Warning:  copy(/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCADhAOEDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iii
+igArgfir8S/CPwW+FnxJ+Mfj+/Ol+B/hV4E8YfEfxnqgVGOn+E/BXh3VfEviG+VJJYVdrXS9JuZU
+jaRA77EMigl676vzv/4K7/8AKJn/AIKa/wDZiP7XH/qg/iRQB/k3f8FK/wDgsh+2/wD8FPvi14t8
+X/GH4q+LfCvwju9Zvp in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 24
+[06-Jun-2018 09:37:02 UTC] PHP Warning:  copy(/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCADhAOEDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iii
+igArgfir8S/CPwW+FnxJ+Mfj+/Ol+B/hV4E8YfEfxnqgVGOn+E/BXh3VfEviG+VJJYVdrXS9JuZU
+jaRA77EMigl676vzv/4K7/8AKJn/AIKa/wDZiP7XH/qg/iRQB/k3f8FK/wDgsh+2/wD8FPvi14t8
+X/GH4q+LfCvwju9Zvp in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 24
+[06-Jun-2018 09:48:53 UTC] PHP Warning:  file_put_contents(clements/uploadimage/image//9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCADhAOEDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iii
+igArgfir8S/CPwW+FnxJ+Mfj+/Ol+B/hV4E8YfEfxnqgVGOn+E/BXh3VfEviG+VJJYVdrXS9JuZU
+jaRA77EMigl676vzv/4K7/8AKJn/AIKa/wDZiP7XH/qg/iRQB/k3f8F in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 23
+[06-Jun-2018 09:50:09 UTC] PHP Warning:  file_put_contents(clements/uploadimage/image/sss.png): failed to open stream: No such file or directory in /home/usccredi/public_html/clements/uploadimage/uploadimage.php on line 23
